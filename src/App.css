@@ -1,0 +1,20 @@
+.sider {
+  height: 100vh;
+}
+.logo-title {
+
+}
+.logo-title img {
+  max-height: 40px;
+  max-width: 40px;
+}
+.logo-title p {
+  color: white;
+  size: 40px;
+}
+.main-layout {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
